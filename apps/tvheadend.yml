@@ -17,7 +17,7 @@
         extport: '9981'
         intport2: '9982/tcp'
         extport2: '9982'
-        image: 'linuxserver/docker-tvheadend'
+        image: 'linuxserver/tvheadend'
 
     # CORE (MANDATORY) ############################################################
     - name: 'Including cron job'
